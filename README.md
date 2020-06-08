@@ -25,7 +25,7 @@
       git checkout BRANCH_NAME
       git add .
       git commit -m "message "
-      git push 
+      git push --set-upstream origin BRANCH_NAME 
         
    ````
 ## Resources :
