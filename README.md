@@ -10,7 +10,7 @@
 ## steps:
   * clone the repo .
   * Go to any location , right click => open git bash here
-  * write command 
+  * write command (For Cloning repo)
     ``` git clone https://github.com/vyom153069/Uplift-java-practice.git ```
   * some instructions 
     * first go to issue , create new issue (which work you want to do )
