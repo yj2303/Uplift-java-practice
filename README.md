@@ -1,5 +1,12 @@
 # Uplift-java-practice
 
+## Git Cheat Sheet:
+   https://education.github.com/git-cheat-sheet-education.pdf
+   <p align="center">
+  <img src="https://www.git-tower.com/blog/media/pages/posts/git-cheat-sheet/-1223884809-1590818205/git-cheat-sheet-large01.png" width="350" title="cheat sheet">
+</p>
+   
+   
 ## steps:
   * clone the repo .
   * Go to any location , right click => open git bash here
