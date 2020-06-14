@@ -28,6 +28,28 @@
       git push --set-upstream origin BRANCH_NAME 
         
    ````
+ ## For Github Desktop users:
+    ``` steps :
+    ==============================================
+      1. fork the repo
+      2. clone the repo(using github desktop)
+      3. create branch 
+      4. now do work ,make changes 
+      5. commit it (means add some msg in require feild )
+      6. publish it 
+      7. create a pull request 
+      8. click on create pull request
+      
+      For this you can see below given video/tutorials .
+      ================================================= 
+      ```
+   ### video:
+   To watch the video click on below image <br>
+   [![Watch the video](https://education.github.com/assets/pack/logo-ghdesktop-40ea908c1b55fd3e6356874e76bca24d5d0877001f4fdff29f34c02eacc35a9e.jpg)](https://drive.google.com/file/d/1wJg933kAWFzxke0_wYPSGRuwxcjWNs6m/view?usp=sharing)
+   
+   for more you can visit<br>
+   https://www.youtube.com/playlist?list=PL7ersPsTyYt3lOPmMMr-AGB65gYD1oeom
+
 ## Resources :
   <br/>
   For learning java you can refer these resources: <br/>
