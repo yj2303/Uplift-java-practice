@@ -1,7 +1,7 @@
-##Intro :
-* I m Amay Saxena currently pursuing btech from LNVT College,Bhopal.
+## Intro :
+* I m Amay Saxena currently pursuing btech from LNCT College,Bhopal.
 
-##Description:
+## Description:
 * I'm a simple and hard working person... always hungry for knowledge, ideas and always want to have knowledge in all technical fields.
 * I have skills of Java Programming Language and Android Development.
 * I always want to be a part of good team and I love to work on projects.
